@@ -11,7 +11,8 @@
 	"license": "ISC",
 	"scripts": {
 		"start": "gulp",
-		"build": "gulp build"
+		"build": "gulp build",
+		"stylelint": "stylelint './app/styles/**/*.scss'"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.15.0",
@@ -40,6 +41,7 @@
 		"gulp-sass": "^5.0.0",
 		"gulp-sass-glob": "^1.1.0",
 		"gulp-stylus": "^2.7.0",
+		"husky": "^4.2.5",
 		"postcss": "^8.3.6",
 		"sass": "^1.38.0",
 		"stylelint": "^13.13.1",
