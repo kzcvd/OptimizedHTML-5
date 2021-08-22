@@ -1,9 +1,12 @@
 {
-	"name": "optimizedhtml",
-	"version": "5.0.0",
-	"description": "OptimizedHTML 5 - Lightweight Gulp Starter",
+	"name": "Starter",
+	"version": "1.0.0",
+	"description": "Starter - Lightweight Gulp Starter",
 	"main": "index.js",
 	"author": "WebDesign Master",
+	"contributors": [
+		"kzcvd <https://github.com/kzcvd>"
+	],
 	"type": "module",
 	"browserslist": [
 		"last 10 versions"
